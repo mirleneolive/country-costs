@@ -1,4 +1,4 @@
-country,latitude,longitude,name,value
+code,latitude,longitude,name,value
 AD,42.546245,1.601554,andorra,1
 AE,23.424076,53.847818,united arab emirates,1
 AF,33.93911,67.709953,afghanistan,4
